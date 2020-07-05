@@ -1113,6 +1113,10 @@ section.lazy-placeholder:after {
 .cid-s3GFRwbyq9 {
   background-image: url("../../../assets/images/matrix-texture-green-numbers.jpg");
 }
+.cid-s3GFRwbyq9 .mbr-text,
+.cid-s3GFRwbyq9 .mbr-section-btn {
+  text-align: center;
+}
 .cid-s3GGnhP6Lh {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1132,31 +1136,6 @@ section.lazy-placeholder:after {
 }
 .cid-s3GGnhP6Lh .card-wrapper {
   height: 100%;
-}
-.cid-s3GGiKhbvm {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s3GGiKhbvm h3 {
-  text-align: center;
-}
-.cid-s3GGiKhbvm .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-s3GGiKhbvm .mbr-content-text {
-  color: #767676;
-}
-.cid-s3GGiKhbvm .panel-item {
-  background: #ffffff;
-}
-.cid-s3GGiKhbvm .card {
-  word-wrap: break-word;
-}
-.cid-s3GGiKhbvm .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
 }
 .cid-s3GU7Zi6oC .navbar {
   padding: .5rem 0;
@@ -2548,27 +2527,27 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s3H3MjYl2I {
+.cid-s3RszOx4hk {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
   overflow: hidden;
 }
-.cid-s3H3MjYl2I .mbr-slider .carousel-control {
+.cid-s3RszOx4hk .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-s3H3MjYl2I .mbr-slider .carousel-control-prev {
+.cid-s3RszOx4hk .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-s3H3MjYl2I .mbr-slider .carousel-control-next {
+.cid-s3RszOx4hk .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-s3H3MjYl2I .mbr-slider .modal-body .close {
+.cid-s3RszOx4hk .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-s3H3MjYl2I .mbr-gallery-item > div::before {
+.cid-s3RszOx4hk .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -2581,13 +2560,13 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s3H3MjYl2I .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-s3RszOx4hk .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-s3H3MjYl2I .mbr-gallery-item > div:hover:before {
+.cid-s3RszOx4hk .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-s3H3MjYl2I .mbr-gallery-title {
+.cid-s3RszOx4hk .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2597,7 +2576,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-s3H3MjYl2I .mbr-gallery-title:before {
+.cid-s3RszOx4hk .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -3034,27 +3013,27 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s3H46gR0q2 {
+.cid-s3RpdeBBBH {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
   overflow: hidden;
 }
-.cid-s3H46gR0q2 .mbr-slider .carousel-control {
+.cid-s3RpdeBBBH .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-s3H46gR0q2 .mbr-slider .carousel-control-prev {
+.cid-s3RpdeBBBH .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-s3H46gR0q2 .mbr-slider .carousel-control-next {
+.cid-s3RpdeBBBH .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-s3H46gR0q2 .mbr-slider .modal-body .close {
+.cid-s3RpdeBBBH .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-s3H46gR0q2 .mbr-gallery-item > div::before {
+.cid-s3RpdeBBBH .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -3067,13 +3046,13 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s3H46gR0q2 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-s3RpdeBBBH .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-s3H46gR0q2 .mbr-gallery-item > div:hover:before {
+.cid-s3RpdeBBBH .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-s3H46gR0q2 .mbr-gallery-title {
+.cid-s3RpdeBBBH .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -3083,7 +3062,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-s3H46gR0q2 .mbr-gallery-title:before {
+.cid-s3RpdeBBBH .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
